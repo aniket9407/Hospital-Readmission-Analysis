@@ -35,7 +35,7 @@ This project analyzes hospital readmission patterns using real-world patient dat
 
 ## 📌 Dashboard Preview
 
-![Dashboard]("C:\Users\Ashok\OneDrive\Pictures\Screenshots\Screenshot 2026-02-16 122431.png")
+https://github.com/aniket9407/Hospital-Readmission-Analysis/blob/main/Screenshot%202026-02-16%20122431.png
 
 ## 💡 Business Impact
 
